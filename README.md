@@ -1,2 +1,6 @@
-# dio-desafio-git-hub-primeiro-repisit-rio
-Desafio de Projeto de Git/Hub
+#Repositório do Desafio de projeto sobre Git/Hub da Dio
+Repositório criado para o desafios de Projeto
+
+##Links Úteis:
+
+[Sintaxe Basica Markdown](https://www.markdownguide.org/)
